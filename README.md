@@ -1,3 +1,6 @@
+# Simple OS example using C++
+> using gcc compiler
+
 ## 01. Process
 ### 1. 부모와 자식 pid 확인해보기
 https://onecompiler.com/cpp/42f5qbk6u
